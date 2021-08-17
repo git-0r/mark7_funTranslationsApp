@@ -1,6 +1,6 @@
-# neoG - Mark-6 Fun Translations App
+# neoG - Mark-7 Fun Translations App
 
-This is a solution to the [Mark-6 of neoG camp](https://neog.camp/guide/lesson-four#assignment).
+This is a solution to the [Mark-7 of neoG camp](https://neog.camp/guide/lesson-four#assignment).
 
 ## Table of contents
 
